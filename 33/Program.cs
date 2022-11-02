@@ -14,7 +14,7 @@ int[] GetArray(string stringArray)
     return result;
 }
 
-bool CheckArray(int[] array, num)
+bool CheckArray(int[] array, int num)
 {
     foreach (int el in array)
     {
@@ -27,11 +27,13 @@ bool CheckArray(int[] array, num)
 }
 
 Console.Clear();
+Console.WriteLine("Введите массив через пробел:");
 string input = Console.ReadLine();
 int[] numArray = GetArray(input);
-int[] n = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Введите искомое число:");
+int n = int.Parse(Console.ReadLine()!);
 
-if(CheckArray(numArray, n))
+if (CheckArray(numArray, n))
 {
     Console.WriteLine("Да");
 }
