@@ -1,0 +1,15 @@
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.csproj.AssemblyReference.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.AssemblyInfoInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.AssemblyInfo.cs
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\bin\Debug\net6.0\37.exe
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\bin\Debug\net6.0\37.deps.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\bin\Debug\net6.0\37.runtimeconfig.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\bin\Debug\net6.0\37.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\bin\Debug\net6.0\37.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\refint\37.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\37.genruntimeconfig.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\5ceminar\5-seminar\37\obj\Debug\net6.0\ref\37.dll
